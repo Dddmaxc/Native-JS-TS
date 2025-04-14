@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Native-JS-TS/static/css/main.cc0d8682.css",
+    "main.js": "/Native-JS-TS/static/js/main.1f75c72a.js",
+    "static/js/453.126e8ee4.chunk.js": "/Native-JS-TS/static/js/453.126e8ee4.chunk.js",
+    "index.html": "/Native-JS-TS/index.html",
+    "main.cc0d8682.css.map": "/Native-JS-TS/static/css/main.cc0d8682.css.map",
+    "main.1f75c72a.js.map": "/Native-JS-TS/static/js/main.1f75c72a.js.map",
+    "453.126e8ee4.chunk.js.map": "/Native-JS-TS/static/js/453.126e8ee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc0d8682.css",
+    "static/js/main.1f75c72a.js"
+  ]
+}
